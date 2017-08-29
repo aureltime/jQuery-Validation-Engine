@@ -1,4 +1,8 @@
 {
   "name": "jQuery-Validation-Engine",
-  "version": "2.6.4"
+  "version": "2.6.4",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aureltime/jQuery-Validation-Engine.git"
+    }
 }
